@@ -1,0 +1,37 @@
+.container {
+    /* background-image: url("/stockCatalog/images/bg.jpeg");
+    background-image: url("../../images/bg.jpeg"); */
+    background-image: url('login.png');
+    background-color: #cccccc;
+    background-size: cover;
+    margin: auto;
+    padding: auto;
+}
+.btnSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+.btnSubmit{
+    font-weight: 600;
+    color: #fff;
+    background-color: #0062cc;
+}
+.login-form-2 .btnSubmit{
+    font-weight: 600;
+    color: #0062cc;
+    background-color: #fff;
+}
+.login-form-2 .ForgetPwd{
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
+.ForgetPwd{
+    color: #0062cc;
+    font-weight: 600;
+    text-decoration: none;
+}
