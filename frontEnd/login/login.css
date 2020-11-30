@@ -1,0 +1,38 @@
+.container-background {
+    background-image: url("/stockCatalog/images/shop2.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+    margin: auto;
+    padding: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    max-width: 450px;
+}
+/* #startTittles {
+    color: #fff;
+} */
+/* #input {
+    align-self: start;
+    max-width: 450px;
+} */
+.btnSubmit {
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+.btnSubmit {
+    font-weight: 400;
+    color: #fff;
+    background-color: #0062cc;
+}
+.ForgetPwd {
+    color: #0062cc;
+    font-weight: 200;
+    text-decoration: none;
+}
