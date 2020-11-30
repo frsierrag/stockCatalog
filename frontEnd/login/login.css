@@ -1,11 +1,16 @@
-.container {
-    /* background-image: url("/stockCatalog/images/bg.jpeg");
-    background-image: url("../../images/bg.jpeg"); */
-    background-image: url('login.png');
+body {
+    background-image: url("/stockCatalog/images/bg.jpeg");
     background-color: #cccccc;
     background-size: cover;
     margin: auto;
     padding: auto;
+}
+.container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#startTittles {
+    color: #fff;
 }
 .btnSubmit
 {
