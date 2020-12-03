@@ -1,3 +1,7 @@
 #iconUser {
     margin-top: 5px;
 }
+.carousel-item img {
+    max-height: 200px;
+    min-width: auto;
+}
